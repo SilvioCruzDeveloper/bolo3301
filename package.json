@@ -1,7 +1,6 @@
 {
   "name": "bolo3301",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "Bolo()"
@@ -11,5 +10,6 @@
     "url": "github.com/SilvioCruzDeveloper/bolo3301.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
