@@ -1,15 +1,11 @@
 {
   "name": "bolo3301",
-  "version": "1.0.2",
+  "version": "1.0.3",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "Bolo()"
-  },
-  "repository": {
-    "type": "git",
-    "url": "github.com/SilvioCruzDeveloper/bolo3301.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "description": ""
+  "license": "ISC"
 }
